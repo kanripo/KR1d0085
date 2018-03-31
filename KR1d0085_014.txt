@@ -1,0 +1,17 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 儀禮經傳通解
+#+DATE: 2018-03-31 09:03:07.385940
+#+PROPERTY: ID KR1d0085
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS WYG    
+#+PROPERTY: JUAN 卷十五
+<pb:KR1d0085_WYG_014-1a>¶
+欽定四庫全書¶
+儀禮經傳通解巻十五¶
+宋朱子撰¶
+學禮九¶
+書數¶
+此一篇原闕¶
+
+<pb:KR1d0085_WYG_014-1b>¶
+
